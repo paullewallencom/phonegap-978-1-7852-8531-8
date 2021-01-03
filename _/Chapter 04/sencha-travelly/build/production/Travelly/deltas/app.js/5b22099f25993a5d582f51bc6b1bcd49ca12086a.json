@@ -1,0 +1,1 @@
+["function _02ae01b42799ce7a189d3e1dcbff0fd810c11ea2",50,518393,"alert(\"Success\");",518443,1830,";if(Ext.browser.is.PhoneGap){alert(device.uuid)}else{alert(\"Simulate UUID\")}",520273,206]

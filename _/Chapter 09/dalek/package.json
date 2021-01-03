@@ -1,0 +1,9 @@
+{
+    "name": "DalekJS-Test",
+    "description": "DalekJS Test Description",
+    "version": "0.0.1",
+    "devDependencies": {
+        "dalekjs": "*",
+        "dalek-browser-chrome": "*"
+    }
+}

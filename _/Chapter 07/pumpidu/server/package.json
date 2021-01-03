@@ -1,0 +1,27 @@
+{
+  "name": "pumpidu",
+  "version": "1.0.0",
+  "description": "WebRTC project",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "^1.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cybind/pumpidu.git"
+  },
+  "keywords": [
+    "WebRTC"
+  ],
+  "author": "Andrew Kovalenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cybind/pumpidu/issues"
+  },
+  "homepage": "https://github.com/cybind/pumpidu"
+}

@@ -1,0 +1,45 @@
+2015-08-07 15:26:15.378 Travelly[90813:1730252] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7A5D3926-3A94-4FD1-9C81-1ACEC4EB35CF/data/Containers/Data/Application/17C52489-D580-4E4F-B64B-EEB500DD292D/Library/Cookies/Cookies.binarycookies
+2015-08-07 15:26:15.654 Travelly[90813:1730252] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-07 15:26:15.654 Travelly[90813:1730252] Multi-tasking -> Device: YES, App: YES
+2015-08-07 15:26:15.671 Travelly[90813:1730252] Unlimited access to network resources
+2015-08-07 15:26:15.680 Travelly[90813:1730252] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-07 15:26:16.421 Travelly[90813:1730252] Resetting plugins due to page load.
+2015-08-07 15:26:16.676 Travelly[90813:1730252] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7A5D3926-3A94-4FD1-9C81-1ACEC4EB35CF/data/Containers/Bundle/Application/251F26EF-F69F-4101-BB7D-B52E9F6067DB/Travelly.app/www/index.html
+2015-08-07 15:26:17.008 Travelly[90813:1730293] *** -[AVAssetResourceLoadingRequest finishLoading] was sent to an instance of AVAssetResourceLoadingRequest that was already finished. Ignoring.
+2015-08-07 15:29:32.160 Travelly[91493:1734154] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7A5D3926-3A94-4FD1-9C81-1ACEC4EB35CF/data/Containers/Data/Application/82E73454-8CEA-48D0-8DC1-10103FD38F37/Library/Cookies/Cookies.binarycookies
+2015-08-07 15:29:32.223 Travelly[91493:1734154] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-07 15:29:32.224 Travelly[91493:1734154] Multi-tasking -> Device: YES, App: YES
+2015-08-07 15:29:32.225 Travelly[91493:1734154] Unlimited access to network resources
+2015-08-07 15:29:32.229 Travelly[91493:1734154] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-07 15:29:32.584 Travelly[91493:1734154] Resetting plugins due to page load.
+2015-08-07 15:29:32.970 Travelly[91493:1734154] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7A5D3926-3A94-4FD1-9C81-1ACEC4EB35CF/data/Containers/Bundle/Application/E918F723-EB23-4659-82FC-77ED54F8D85E/Travelly.app/www/index.html
+2015-08-07 15:29:33.368 Travelly[91493:1734225] *** -[AVAssetResourceLoadingRequest finishLoading] was sent to an instance of AVAssetResourceLoadingRequest that was already finished. Ignoring.
+2015-08-07 15:31:21.273 Travelly[92126:1736736] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7A5D3926-3A94-4FD1-9C81-1ACEC4EB35CF/data/Containers/Data/Application/333FF5CB-A250-4480-8F86-E93C80983C46/Library/Cookies/Cookies.binarycookies
+2015-08-07 15:31:21.330 Travelly[92126:1736736] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-07 15:31:21.330 Travelly[92126:1736736] Multi-tasking -> Device: YES, App: YES
+2015-08-07 15:31:21.332 Travelly[92126:1736736] Unlimited access to network resources
+2015-08-07 15:31:21.334 Travelly[92126:1736736] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-07 15:31:21.462 Travelly[92126:1736736] Resetting plugins due to page load.
+2015-08-07 15:31:21.647 Travelly[92126:1736736] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7A5D3926-3A94-4FD1-9C81-1ACEC4EB35CF/data/Containers/Bundle/Application/3D3B249F-98BD-4736-9A53-64B6788C5DDE/Travelly.app/www/index.html
+2015-08-07 15:31:22.401 Travelly[92126:1736791] *** -[AVAssetResourceLoadingRequest finishLoading] was sent to an instance of AVAssetResourceLoadingRequest that was already finished. Ignoring.

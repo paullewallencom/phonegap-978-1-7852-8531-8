@@ -1,0 +1,57 @@
+body
+{
+    margin: 0;
+
+    text-align: center;
+
+    background: #111;
+}
+
+*:focus
+{
+    outline: none;
+}
+
+#remoteVideo
+{
+    width: 100%;
+    height: 100vh;
+
+    background: #000;
+}
+
+#localVideo
+{
+    position: absolute;
+    right: 1.1em;
+    bottom: 1em;
+
+    width: 20%;
+
+    border: 1px solid #333;
+    background: #000;
+}
+
+#callButton
+{
+    font-size: 1.5em;
+
+    position: absolute;
+    bottom: 5%;
+    left: 50%;
+
+    display: none;
+
+    width: 4em;
+    height: 2em;
+    margin-left: -2em;
+
+    border: none;
+    border-radius: 2em;
+    background-color: #090;
+}
+
+#callButton:active
+{
+    background-color: #808080;
+}

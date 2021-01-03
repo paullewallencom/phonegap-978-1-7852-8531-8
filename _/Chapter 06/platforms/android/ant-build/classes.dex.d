@@ -1,0 +1,22 @@
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes.dex : \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/com/cybind/crazybubbles/BuildConfig.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/com/cybind/crazybubbles/CordovaApp.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/com/cybind/crazybubbles/R$attr.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/com/cybind/crazybubbles/R$drawable.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/com/cybind/crazybubbles/R$string.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/com/cybind/crazybubbles/R$xml.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/com/cybind/crazybubbles/R.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/com/vladstirbu/cordova/CDVInstagramPlugin$1.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/com/vladstirbu/cordova/CDVInstagramPlugin.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing$1.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing$2$1$1.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing$2$1.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing$2.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing$3.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing$SocialSharingRunnable.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/org/apache/cordova/statusbar/StatusBar$1.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/org/apache/cordova/statusbar/StatusBar$2.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/org/apache/cordova/statusbar/StatusBar$3.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/classes/org/apache/cordova/statusbar/StatusBar.class \
+/Users/cybind/Desktop/code/Chapter 06/platforms/android/ant-build/dexedLibs/classes-41ae7bc131df4d0696bf32b5ecc0ff10.jar \

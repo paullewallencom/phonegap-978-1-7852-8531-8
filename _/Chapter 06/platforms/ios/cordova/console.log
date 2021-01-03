@@ -1,0 +1,724 @@
+2015-03-07 20:56:01.859 CrazyBubbles[9649:47904] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/35CCD195-D8EB-4C43-ADFE-2383C66A9F48/Library/Cookies/Cookies.binarycookies
+2015-03-07 20:56:02.100 CrazyBubbles[9649:47904] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-07 20:56:02.100 CrazyBubbles[9649:47904] Multi-tasking -> Device: YES, App: YES
+2015-03-07 20:56:02.116 CrazyBubbles[9649:47904] Unlimited access to network resources
+2015-03-07 20:56:02.123 CrazyBubbles[9649:47904] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-07 20:56:03.274 CrazyBubbles[9649:47904] Resetting plugins due to page load.
+2015-03-07 20:56:03.371 CrazyBubbles[9649:47904] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/594172E2-F6EF-4995-8169-3F71CF6DB825/CrazyBubbles.app/www/index.html
+2015-03-08 13:28:02.423 CrazyBubbles[1270:25200] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/EB3FF485-7791-4390-9A20-D1E85DA522C9/Library/Cookies/Cookies.binarycookies
+2015-03-08 13:28:02.647 CrazyBubbles[1270:25200] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 13:28:02.648 CrazyBubbles[1270:25200] Multi-tasking -> Device: YES, App: YES
+2015-03-08 13:28:02.659 CrazyBubbles[1270:25200] Unlimited access to network resources
+2015-03-08 13:28:02.671 CrazyBubbles[1270:25200] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 13:28:03.302 CrazyBubbles[1270:25200] Resetting plugins due to page load.
+2015-03-08 13:28:03.563 CrazyBubbles[1270:25200] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/6BFEFF2D-DC86-430D-A24A-6C1900109846/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-08 13:28:48.840 CrazyBubbles[1357:25855] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/73AE86BB-65E2-4A23-A9DC-A466244DBF51/Library/Cookies/Cookies.binarycookies
+2015-03-08 13:28:48.924 CrazyBubbles[1357:25855] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 13:28:48.925 CrazyBubbles[1357:25855] Multi-tasking -> Device: YES, App: YES
+2015-03-08 13:28:48.926 CrazyBubbles[1357:25855] Unlimited access to network resources
+2015-03-08 13:28:48.928 CrazyBubbles[1357:25855] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 13:28:49.127 CrazyBubbles[1357:25855] Resetting plugins due to page load.
+2015-03-08 13:28:49.247 CrazyBubbles[1357:25855] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/F0DD8FF2-B1A4-402B-80A0-BA0A73082C21/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-08 13:29:53.955 CrazyBubbles[1470:27019] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/73B6BDC7-B063-4B80-ABE8-3FCEE61838BA/Library/Cookies/Cookies.binarycookies
+2015-03-08 13:29:54.034 CrazyBubbles[1470:27019] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 13:29:54.035 CrazyBubbles[1470:27019] Multi-tasking -> Device: YES, App: YES
+2015-03-08 13:29:54.036 CrazyBubbles[1470:27019] Unlimited access to network resources
+2015-03-08 13:29:54.038 CrazyBubbles[1470:27019] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 13:29:54.300 CrazyBubbles[1470:27019] Resetting plugins due to page load.
+2015-03-08 13:29:54.504 CrazyBubbles[1470:27019] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/291BB6E5-B384-4EE6-B99C-D956DBEACC61/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-08 13:30:50.816 CrazyBubbles[1554:27715] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/5B5C387F-D39A-4943-935C-114370A891D1/Library/Cookies/Cookies.binarycookies
+2015-03-08 13:30:50.889 CrazyBubbles[1554:27715] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 13:30:50.890 CrazyBubbles[1554:27715] Multi-tasking -> Device: YES, App: YES
+2015-03-08 13:30:50.891 CrazyBubbles[1554:27715] Unlimited access to network resources
+2015-03-08 13:30:50.893 CrazyBubbles[1554:27715] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 13:30:51.154 CrazyBubbles[1554:27715] Resetting plugins due to page load.
+2015-03-08 13:30:51.357 CrazyBubbles[1554:27715] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/235262E7-94B1-4D61-B974-D0D975720C53/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-08 13:31:31.358 CrazyBubbles[1641:28397] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/CE08ABCA-5E24-4CA7-83DA-434A822C70C2/Library/Cookies/Cookies.binarycookies
+2015-03-08 13:31:31.437 CrazyBubbles[1641:28397] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 13:31:31.437 CrazyBubbles[1641:28397] Multi-tasking -> Device: YES, App: YES
+2015-03-08 13:31:31.439 CrazyBubbles[1641:28397] Unlimited access to network resources
+2015-03-08 13:31:31.441 CrazyBubbles[1641:28397] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 13:31:31.689 CrazyBubbles[1641:28397] Resetting plugins due to page load.
+2015-03-08 13:31:31.803 CrazyBubbles[1641:28397] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/DF0B136D-FBB2-4068-A342-2CDF5F8E34FE/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-08 13:32:02.322 CrazyBubbles[1774:29022] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/6B747D12-A181-4576-ADE7-38505AB6D5C3/Library/Cookies/Cookies.binarycookies
+2015-03-08 13:32:02.456 CrazyBubbles[1774:29022] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-08 13:32:02.457 CrazyBubbles[1774:29022] Multi-tasking -> Device: YES, App: YES
+2015-03-08 13:32:02.459 CrazyBubbles[1774:29022] Unlimited access to network resources
+2015-03-08 13:32:02.461 CrazyBubbles[1774:29022] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-08 13:32:02.776 CrazyBubbles[1774:29022] Resetting plugins due to page load.
+2015-03-08 13:32:03.030 CrazyBubbles[1774:29022] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/B0262D01-0861-43CD-8913-D8337E5DE9FF/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 22:42:24.149 CrazyBubbles[15991:265365] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/545134E1-4941-4283-B343-A3E1408370FA/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:42:24.387 CrazyBubbles[15991:265365] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:42:24.388 CrazyBubbles[15991:265365] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:42:24.402 CrazyBubbles[15991:265365] Unlimited access to network resources
+2015-03-09 22:42:24.411 CrazyBubbles[15991:265365] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:42:25.075 CrazyBubbles[15991:265365] Resetting plugins due to page load.
+2015-03-09 22:42:25.266 CrazyBubbles[15991:265365] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/475FE9FA-16A0-4313-A422-B6327B0A1986/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 22:46:11.567 CrazyBubbles[16114:267863] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/38501287-2509-4458-9F19-20EAB95ED5CC/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:46:11.646 CrazyBubbles[16114:267863] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:46:11.646 CrazyBubbles[16114:267863] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:46:11.647 CrazyBubbles[16114:267863] Unlimited access to network resources
+2015-03-09 22:46:11.649 CrazyBubbles[16114:267863] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:46:11.907 CrazyBubbles[16114:267863] Resetting plugins due to page load.
+2015-03-09 22:46:12.114 CrazyBubbles[16114:267863] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/B3C663B3-5C92-47DB-9850-B5BE953DD2D5/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 22:46:25.410 CrazyBubbles[16206:268324] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/91F54D10-3950-46C2-959D-5EA80707315F/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:46:25.487 CrazyBubbles[16206:268324] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:46:25.487 CrazyBubbles[16206:268324] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:46:25.488 CrazyBubbles[16206:268324] Unlimited access to network resources
+2015-03-09 22:46:25.490 CrazyBubbles[16206:268324] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:46:25.734 CrazyBubbles[16206:268324] Resetting plugins due to page load.
+2015-03-09 22:46:25.995 CrazyBubbles[16206:268324] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/50FBD01F-E123-4F0C-8DDF-50A140920725/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 22:48:37.486 CrazyBubbles[16314:269656] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/A683885C-9C28-49ED-ABDA-12C52944A425/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:48:37.561 CrazyBubbles[16314:269656] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:48:37.561 CrazyBubbles[16314:269656] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:48:37.562 CrazyBubbles[16314:269656] Unlimited access to network resources
+2015-03-09 22:48:37.564 CrazyBubbles[16314:269656] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:48:37.805 CrazyBubbles[16314:269656] Resetting plugins due to page load.
+2015-03-09 22:48:38.026 CrazyBubbles[16314:269656] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/B6AF3573-48C5-4D01-B39E-126F274AFA79/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 22:48:52.169 CrazyBubbles[16395:270225] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/DB9E8CDE-7BA9-41B1-9D62-965C5EC0AF77/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:48:52.242 CrazyBubbles[16395:270225] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:48:52.242 CrazyBubbles[16395:270225] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:48:52.243 CrazyBubbles[16395:270225] Unlimited access to network resources
+2015-03-09 22:48:52.245 CrazyBubbles[16395:270225] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:48:52.479 CrazyBubbles[16395:270225] Resetting plugins due to page load.
+2015-03-09 22:48:52.597 CrazyBubbles[16395:270225] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/A57EDDE2-08F5-480C-94FC-46BD13E8DDD1/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 22:49:29.756 CrazyBubbles[16486:270856] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/41E29020-600A-4094-980E-EB4EC1624C33/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:49:29.833 CrazyBubbles[16486:270856] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:49:29.834 CrazyBubbles[16486:270856] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:49:29.835 CrazyBubbles[16486:270856] Unlimited access to network resources
+2015-03-09 22:49:29.837 CrazyBubbles[16486:270856] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:49:30.075 CrazyBubbles[16486:270856] Resetting plugins due to page load.
+2015-03-09 22:49:30.302 CrazyBubbles[16486:270856] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/7ADC6C06-85A0-4370-A72F-50BADA336CE6/CrazyBubbles.app/www/index.html
+2015-03-09 22:50:25.654 CrazyBubbles[16586:271612] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/92D1B9E6-4064-4F71-A98C-F74A2DDCDA3B/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:50:25.728 CrazyBubbles[16586:271612] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:50:25.728 CrazyBubbles[16586:271612] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:50:25.730 CrazyBubbles[16586:271612] Unlimited access to network resources
+2015-03-09 22:50:25.732 CrazyBubbles[16586:271612] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:50:25.955 CrazyBubbles[16586:271612] Resetting plugins due to page load.
+2015-03-09 22:50:26.065 CrazyBubbles[16586:271612] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/C4D8EF94-312E-4C9A-98D2-591C22C562F8/CrazyBubbles.app/www/index.html
+2015-03-09 22:50:46.252 CrazyBubbles[16678:272146] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/6122BC38-C034-4F7D-AFFE-D9420B9BA897/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:50:46.327 CrazyBubbles[16678:272146] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:50:46.327 CrazyBubbles[16678:272146] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:50:46.328 CrazyBubbles[16678:272146] Unlimited access to network resources
+2015-03-09 22:50:46.330 CrazyBubbles[16678:272146] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:50:46.560 CrazyBubbles[16678:272146] Resetting plugins due to page load.
+2015-03-09 22:50:46.764 CrazyBubbles[16678:272146] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/943526F5-5D0D-442C-8BB8-8EA4DE2ADC81/CrazyBubbles.app/www/index.html
+2015-03-09 22:51:10.953 CrazyBubbles[16770:272669] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/DCEE3824-B053-469E-BC08-333683E26682/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:51:11.027 CrazyBubbles[16770:272669] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:51:11.028 CrazyBubbles[16770:272669] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:51:11.029 CrazyBubbles[16770:272669] Unlimited access to network resources
+2015-03-09 22:51:11.031 CrazyBubbles[16770:272669] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:51:11.274 CrazyBubbles[16770:272669] Resetting plugins due to page load.
+2015-03-09 22:51:11.436 CrazyBubbles[16770:272669] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/19FD6106-2FF9-4485-8B7B-54558FD79AB9/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 22:51:28.248 CrazyBubbles[16855:273166] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/F1E94C84-66F8-4AA2-976D-7E6A1F20E71A/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:51:28.330 CrazyBubbles[16855:273166] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:51:28.330 CrazyBubbles[16855:273166] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:51:28.332 CrazyBubbles[16855:273166] Unlimited access to network resources
+2015-03-09 22:51:28.333 CrazyBubbles[16855:273166] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:51:28.571 CrazyBubbles[16855:273166] Resetting plugins due to page load.
+2015-03-09 22:51:28.686 CrazyBubbles[16855:273166] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/08B3F7E6-CC72-4116-B826-EAA926F19132/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 22:51:52.546 CrazyBubbles[16941:273724] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/B7144428-CCA0-4E34-8793-0C90ECF0875B/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:51:52.625 CrazyBubbles[16941:273724] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:51:52.625 CrazyBubbles[16941:273724] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:51:52.626 CrazyBubbles[16941:273724] Unlimited access to network resources
+2015-03-09 22:51:52.628 CrazyBubbles[16941:273724] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:51:52.921 CrazyBubbles[16941:273724] Resetting plugins due to page load.
+2015-03-09 22:51:53.106 CrazyBubbles[16941:273724] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/8B3311CE-C641-46D1-A9E9-DA93DABA8182/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 22:52:22.971 CrazyBubbles[17029:274263] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/43977E93-B3E4-47F5-910A-C75538E49586/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:52:23.045 CrazyBubbles[17029:274263] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:52:23.045 CrazyBubbles[17029:274263] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:52:23.047 CrazyBubbles[17029:274263] Unlimited access to network resources
+2015-03-09 22:52:23.049 CrazyBubbles[17029:274263] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:52:23.321 CrazyBubbles[17029:274263] Resetting plugins due to page load.
+2015-03-09 22:52:23.548 CrazyBubbles[17029:274263] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/9560D3B7-2FEA-468F-B254-3AF976562B66/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 22:52:39.799 CrazyBubbles[17117:274872] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/9C833973-3ED7-4751-A948-DEACE5613AC7/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:52:39.874 CrazyBubbles[17117:274872] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:52:39.874 CrazyBubbles[17117:274872] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:52:39.875 CrazyBubbles[17117:274872] Unlimited access to network resources
+2015-03-09 22:52:39.877 CrazyBubbles[17117:274872] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:52:40.126 CrazyBubbles[17117:274872] Resetting plugins due to page load.
+2015-03-09 22:52:40.355 CrazyBubbles[17117:274872] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/65E528B4-277A-462A-9693-67F8D5F366F0/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 22:53:06.528 CrazyBubbles[17206:275420] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/976C396F-454F-4C80-BC2F-900FB5DFC625/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:53:06.609 CrazyBubbles[17206:275420] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:53:06.609 CrazyBubbles[17206:275420] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:53:06.610 CrazyBubbles[17206:275420] Unlimited access to network resources
+2015-03-09 22:53:06.612 CrazyBubbles[17206:275420] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:53:06.857 CrazyBubbles[17206:275420] Resetting plugins due to page load.
+2015-03-09 22:53:07.063 CrazyBubbles[17206:275420] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/9BB7C7A0-BF11-41A6-AE6F-8A15BBF9E7BC/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 22:53:59.386 CrazyBubbles[17305:276140] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/79C82618-6273-4ACB-ADFA-2620C083B897/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:53:59.456 CrazyBubbles[17305:276140] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:53:59.456 CrazyBubbles[17305:276140] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:53:59.458 CrazyBubbles[17305:276140] Unlimited access to network resources
+2015-03-09 22:53:59.459 CrazyBubbles[17305:276140] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:53:59.679 CrazyBubbles[17305:276140] Resetting plugins due to page load.
+2015-03-09 22:53:59.911 CrazyBubbles[17305:276140] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/E312B926-993A-445B-A3C9-B110B47FCB97/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 22:54:21.061 CrazyBubbles[17439:276727] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/4C31A68E-0951-49F7-8611-87319481F48F/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:54:21.135 CrazyBubbles[17439:276727] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:54:21.135 CrazyBubbles[17439:276727] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:54:21.136 CrazyBubbles[17439:276727] Unlimited access to network resources
+2015-03-09 22:54:21.138 CrazyBubbles[17439:276727] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:54:21.366 CrazyBubbles[17439:276727] Resetting plugins due to page load.
+2015-03-09 22:54:21.475 CrazyBubbles[17439:276727] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/AE8FD71F-2709-4E90-A747-DA7DBEA9AAF0/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 22:56:51.555 CrazyBubbles[17558:278395] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/1B33F14E-56DD-434A-9233-81A46A7E726F/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:56:51.629 CrazyBubbles[17558:278395] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:56:51.630 CrazyBubbles[17558:278395] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:56:51.631 CrazyBubbles[17558:278395] Unlimited access to network resources
+2015-03-09 22:56:51.633 CrazyBubbles[17558:278395] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:56:51.837 CrazyBubbles[17558:278395] Resetting plugins due to page load.
+2015-03-09 22:56:51.963 CrazyBubbles[17558:278395] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/AEFD9E27-B223-476B-8E04-53EB26224929/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 22:58:00.531 CrazyBubbles[17653:279214] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/A45E34B1-C2C7-4468-8370-E84D694F3EA7/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:58:00.606 CrazyBubbles[17653:279214] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:58:00.607 CrazyBubbles[17653:279214] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:58:00.608 CrazyBubbles[17653:279214] Unlimited access to network resources
+2015-03-09 22:58:00.610 CrazyBubbles[17653:279214] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:58:00.811 CrazyBubbles[17653:279214] Resetting plugins due to page load.
+2015-03-09 22:58:01.031 CrazyBubbles[17653:279214] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/B4BF82B8-7258-4676-BD15-0CC147751557/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 22:58:47.310 CrazyBubbles[17742:279939] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/019BE2D5-5FD8-44BD-875D-D7B741A94F8D/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:58:47.390 CrazyBubbles[17742:279939] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:58:47.392 CrazyBubbles[17742:279939] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:58:47.393 CrazyBubbles[17742:279939] Unlimited access to network resources
+2015-03-09 22:58:47.395 CrazyBubbles[17742:279939] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:58:47.611 CrazyBubbles[17742:279939] Resetting plugins due to page load.
+2015-03-09 22:58:47.726 CrazyBubbles[17742:279939] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/DB497A80-88D0-4FBA-8EE2-D4D427D1CE17/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 22:59:35.942 CrazyBubbles[17833:280689] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/37A11B33-B056-45E4-9F0B-CD340BA26112/Library/Cookies/Cookies.binarycookies
+2015-03-09 22:59:36.014 CrazyBubbles[17833:280689] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 22:59:36.014 CrazyBubbles[17833:280689] Multi-tasking -> Device: YES, App: YES
+2015-03-09 22:59:36.015 CrazyBubbles[17833:280689] Unlimited access to network resources
+2015-03-09 22:59:36.017 CrazyBubbles[17833:280689] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 22:59:36.241 CrazyBubbles[17833:280689] Resetting plugins due to page load.
+2015-03-09 22:59:36.359 CrazyBubbles[17833:280689] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/A2ADB782-0832-4349-AF79-68852923D1B8/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 23:02:29.155 CrazyBubbles[17940:281969] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/2059B205-B256-4072-B8C8-0D66EB88E132/Library/Cookies/Cookies.binarycookies
+2015-03-09 23:02:29.232 CrazyBubbles[17940:281969] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 23:02:29.233 CrazyBubbles[17940:281969] Multi-tasking -> Device: YES, App: YES
+2015-03-09 23:02:29.234 CrazyBubbles[17940:281969] Unlimited access to network resources
+2015-03-09 23:02:29.236 CrazyBubbles[17940:281969] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 23:02:29.455 CrazyBubbles[17940:281969] Resetting plugins due to page load.
+2015-03-09 23:02:29.578 CrazyBubbles[17940:281969] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/6A3606DE-459E-427B-91E6-C0C10211898E/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 23:37:44.025 CrazyBubbles[18091:293831] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/92BB1C06-B5B7-4B44-8F08-5B8BC3AD7F25/Library/Cookies/Cookies.binarycookies
+2015-03-09 23:37:44.096 CrazyBubbles[18091:293831] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 23:37:44.097 CrazyBubbles[18091:293831] Multi-tasking -> Device: YES, App: YES
+2015-03-09 23:37:44.098 CrazyBubbles[18091:293831] Unlimited access to network resources
+2015-03-09 23:37:44.100 CrazyBubbles[18091:293831] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 23:37:44.428 CrazyBubbles[18091:293831] Resetting plugins due to page load.
+2015-03-09 23:37:44.586 CrazyBubbles[18091:293831] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/944D5DEB-BBFD-413C-BD5F-23AB1E6C2205/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 23:41:59.431 CrazyBubbles[18233:295968] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/F56DCD6B-0081-494D-AE53-CE490931BB5F/Library/Cookies/Cookies.binarycookies
+2015-03-09 23:41:59.508 CrazyBubbles[18233:295968] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 23:41:59.508 CrazyBubbles[18233:295968] Multi-tasking -> Device: YES, App: YES
+2015-03-09 23:41:59.509 CrazyBubbles[18233:295968] Unlimited access to network resources
+2015-03-09 23:41:59.511 CrazyBubbles[18233:295968] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 23:41:59.681 CrazyBubbles[18233:295968] [CDVTimer][statusbar] 18.748999ms
+2015-03-09 23:41:59.682 CrazyBubbles[18233:295968] [CDVTimer][TotalPluginStartup] 18.975019ms
+2015-03-09 23:41:59.774 CrazyBubbles[18233:295968] Resetting plugins due to page load.
+2015-03-09 23:41:59.895 CrazyBubbles[18233:295968] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/F0D02D6C-FB89-4B8D-B9DB-AD6FB75ECE59/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-09 23:53:44.813 CrazyBubbles[18400:301853] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Data/Application/525538C7-386D-4990-A65B-EB507226DFF9/Library/Cookies/Cookies.binarycookies
+2015-03-09 23:53:45.065 CrazyBubbles[18400:301853] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 23:53:45.066 CrazyBubbles[18400:301853] Multi-tasking -> Device: YES, App: YES
+2015-03-09 23:53:45.070 CrazyBubbles[18400:301853] Unlimited access to network resources
+2015-03-09 23:53:45.078 CrazyBubbles[18400:301853] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 23:53:45.580 CrazyBubbles[18400:301853] [CDVTimer][statusbar] 48.775017ms
+2015-03-09 23:53:45.581 CrazyBubbles[18400:301853] [CDVTimer][TotalPluginStartup] 49.311042ms
+2015-03-09 23:53:45.827 CrazyBubbles[18400:301853] Resetting plugins due to page load.
+2015-03-09 23:53:46.193 CrazyBubbles[18400:301853] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/91614447-0513-44A2-88BA-76A8F1CD61B0/data/Containers/Bundle/Application/5CED9399-C882-4542-8E16-F08C87AAD759/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-14 15:07:59.961 CrazyBubbles[29525:503595] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Data/Application/98234137-9800-4570-82E5-DF7DB430FC76/Library/Cookies/Cookies.binarycookies
+2015-03-14 15:08:00.214 CrazyBubbles[29525:503595] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-14 15:08:00.215 CrazyBubbles[29525:503595] Multi-tasking -> Device: YES, App: YES
+2015-03-14 15:08:00.231 CrazyBubbles[29525:503595] Unlimited access to network resources
+2015-03-14 15:08:00.241 CrazyBubbles[29525:503595] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-14 15:08:00.662 CrazyBubbles[29525:503595] [CDVTimer][statusbar] 115.176976ms
+2015-03-14 15:08:00.662 CrazyBubbles[29525:503595] [CDVTimer][TotalPluginStartup] 115.319014ms
+2015-03-14 15:08:00.957 CrazyBubbles[29525:503595] Resetting plugins due to page load.
+2015-03-14 15:08:01.131 CrazyBubbles[29525:503595] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Bundle/Application/16F0E102-CA84-42E7-A923-DAE0F54E1886/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-14 22:00:54.057 CrazyBubbles[4599:212376] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Data/Application/FDA801FA-90E8-4DF8-932E-C5E049FE5705/Library/Cookies/Cookies.binarycookies
+2015-03-14 22:00:54.120 CrazyBubbles[4599:212376] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-14 22:00:54.121 CrazyBubbles[4599:212376] Multi-tasking -> Device: YES, App: YES
+2015-03-14 22:00:54.123 CrazyBubbles[4599:212376] Unlimited access to network resources
+2015-03-14 22:00:54.126 CrazyBubbles[4599:212376] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-14 22:00:54.205 CrazyBubbles[4599:212376] [CDVTimer][statusbar] 14.818013ms
+2015-03-14 22:00:54.205 CrazyBubbles[4599:212376] [CDVTimer][TotalPluginStartup] 14.953971ms
+2015-03-14 22:00:54.251 CrazyBubbles[4599:212376] Resetting plugins due to page load.
+2015-03-14 22:00:54.357 CrazyBubbles[4599:212376] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Bundle/Application/E2A74E5B-DE86-4DD3-8BDC-DB81338EAF1D/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-17 00:34:42.911 CrazyBubbles[1748:47353] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Data/Application/321F9EC1-4215-41BD-8FD0-014B8899FF51/Library/Cookies/Cookies.binarycookies
+2015-03-17 00:34:43.168 CrazyBubbles[1748:47353] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-17 00:34:43.169 CrazyBubbles[1748:47353] Multi-tasking -> Device: YES, App: YES
+2015-03-17 00:34:43.186 CrazyBubbles[1748:47353] Unlimited access to network resources
+2015-03-17 00:34:43.197 CrazyBubbles[1748:47353] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-17 00:34:43.642 CrazyBubbles[1748:47353] [CDVTimer][statusbar] 122.986019ms
+2015-03-17 00:34:43.642 CrazyBubbles[1748:47353] [CDVTimer][TotalPluginStartup] 123.127997ms
+2015-03-17 00:34:43.772 CrazyBubbles[1748:47353] Resetting plugins due to page load.
+2015-03-17 00:34:43.972 CrazyBubbles[1748:47353] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Bundle/Application/8523B8B6-250A-45AA-A24E-BD4AD200ABB8/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-22 10:13:15.092 CrazyBubbles[13247:2365501] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Data/Application/E0431A22-F6CB-4803-A1B0-0BA3703B0FF8/Library/Cookies/Cookies.binarycookies
+2015-03-22 10:13:15.342 CrazyBubbles[13247:2365501] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-22 10:13:15.343 CrazyBubbles[13247:2365501] Multi-tasking -> Device: YES, App: YES
+2015-03-22 10:13:15.364 CrazyBubbles[13247:2365501] Unlimited access to network resources
+2015-03-22 10:13:15.381 CrazyBubbles[13247:2365501] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-22 10:13:15.939 CrazyBubbles[13247:2365501] [CDVTimer][statusbar] 122.381032ms
+2015-03-22 10:13:15.939 CrazyBubbles[13247:2365501] [CDVTimer][TotalPluginStartup] 122.543037ms
+2015-03-22 10:13:16.073 CrazyBubbles[13247:2365501] Resetting plugins due to page load.
+2015-03-22 10:13:16.279 CrazyBubbles[13247:2365501] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Bundle/Application/B202A13E-4D72-4ECF-8189-D8F9B8F15BAA/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-29 22:44:13.871 CrazyBubbles[766:5758851] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Data/Application/29E2530A-A83F-4697-A0DD-6D7A179979DD/Library/Cookies/Cookies.binarycookies
+2015-03-29 22:44:14.122 CrazyBubbles[766:5758851] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-29 22:44:14.123 CrazyBubbles[766:5758851] Multi-tasking -> Device: YES, App: YES
+2015-03-29 22:44:14.136 CrazyBubbles[766:5758851] Unlimited access to network resources
+2015-03-29 22:44:14.146 CrazyBubbles[766:5758851] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-29 22:44:14.571 CrazyBubbles[766:5758851] [CDVTimer][statusbar] 113.304019ms
+2015-03-29 22:44:14.571 CrazyBubbles[766:5758851] [CDVTimer][TotalPluginStartup] 113.453984ms
+2015-03-29 22:44:14.697 CrazyBubbles[766:5758851] Resetting plugins due to page load.
+2015-03-29 22:44:14.876 CrazyBubbles[766:5758851] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Bundle/Application/8E1C3020-CE76-4542-9FCF-292BED6B855E/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-29 22:52:17.443 CrazyBubbles[1728:5765175] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Data/Application/985DCC39-D81B-46DF-BD9B-B3FA22E34D0A/Library/Cookies/Cookies.binarycookies
+2015-03-29 22:52:17.499 CrazyBubbles[1728:5765175] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-29 22:52:17.499 CrazyBubbles[1728:5765175] Multi-tasking -> Device: YES, App: YES
+2015-03-29 22:52:17.501 CrazyBubbles[1728:5765175] Unlimited access to network resources
+2015-03-29 22:52:17.504 CrazyBubbles[1728:5765175] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-29 22:52:17.577 CrazyBubbles[1728:5765175] [CDVTimer][statusbar] 11.537015ms
+2015-03-29 22:52:17.616 CrazyBubbles[1728:5765175] [CDVTimer][socialsharing] 38.706005ms
+2015-03-29 22:52:17.616 CrazyBubbles[1728:5765175] [CDVTimer][TotalPluginStartup] 50.575018ms
+2015-03-29 22:52:17.632 CrazyBubbles[1728:5765175] Resetting plugins due to page load.
+2015-03-29 22:52:17.788 CrazyBubbles[1728:5765175] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Bundle/Application/B02E8970-5AE3-490F-A878-F5DC1BED58E4/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-29 22:53:20.330 CrazyBubbles[1728:5765175] CDVWebViewDelegate: Navigation started when state=1
+2015-03-29 22:53:20.330 CrazyBubbles[1728:5765175] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-03-29 22:53:21.486 CrazyBubbles[1728:5765175] CDVWebViewDelegate: Navigation started when state=1
+2015-03-29 22:53:21.486 CrazyBubbles[1728:5765175] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-03-29 22:53:25.719 CrazyBubbles[1728:5765175] CDVWebViewDelegate: Navigation started when state=1
+2015-03-29 22:53:25.719 CrazyBubbles[1728:5765175] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-03-29 22:53:57.274 CrazyBubbles[2000:5767060] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Data/Application/966729BF-684A-4DEA-89FA-C876E5B2EA4A/Library/Cookies/Cookies.binarycookies
+2015-03-29 22:53:57.366 CrazyBubbles[2000:5767060] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-29 22:53:57.367 CrazyBubbles[2000:5767060] Multi-tasking -> Device: YES, App: YES
+2015-03-29 22:53:57.369 CrazyBubbles[2000:5767060] Unlimited access to network resources
+2015-03-29 22:53:57.372 CrazyBubbles[2000:5767060] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-29 22:53:57.458 CrazyBubbles[2000:5767060] [CDVTimer][statusbar] 11.218011ms
+2015-03-29 22:53:57.492 CrazyBubbles[2000:5767060] [CDVTimer][socialsharing] 34.470022ms
+2015-03-29 22:53:57.493 CrazyBubbles[2000:5767060] [CDVTimer][TotalPluginStartup] 45.974016ms
+2015-03-29 22:53:57.549 CrazyBubbles[2000:5767060] Resetting plugins due to page load.
+2015-03-29 22:53:57.678 CrazyBubbles[2000:5767060] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Bundle/Application/24D05E6E-1555-495B-9710-FB5FBE409454/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-29 22:54:33.335 CrazyBubbles[2154:5767903] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Data/Application/9AD07AD4-B60E-42F4-8531-6618D59CE4DD/Library/Cookies/Cookies.binarycookies
+2015-03-29 22:54:33.410 CrazyBubbles[2154:5767903] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-29 22:54:33.410 CrazyBubbles[2154:5767903] Multi-tasking -> Device: YES, App: YES
+2015-03-29 22:54:33.412 CrazyBubbles[2154:5767903] Unlimited access to network resources
+2015-03-29 22:54:33.414 CrazyBubbles[2154:5767903] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-29 22:54:33.488 CrazyBubbles[2154:5767903] [CDVTimer][statusbar] 11.062026ms
+2015-03-29 22:54:33.521 CrazyBubbles[2154:5767903] [CDVTimer][socialsharing] 33.034027ms
+2015-03-29 22:54:33.521 CrazyBubbles[2154:5767903] [CDVTimer][TotalPluginStartup] 44.408023ms
+2015-03-29 22:54:33.581 CrazyBubbles[2154:5767903] Resetting plugins due to page load.
+2015-03-29 22:54:33.725 CrazyBubbles[2154:5767903] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Bundle/Application/D07A9B5F-8DD5-4AC9-9F21-69E9104BEFE2/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-03-29 22:54:36.601 CrazyBubbles[2154:5767903] THREAD WARNING: ['SocialSharing'] took '112.257812' ms. Plugin should use a background thread.
+2015-03-29 22:54:43.763 CrazyBubbles[2154:5767903] THREAD WARNING: ['SocialSharing'] took '27.713135' ms. Plugin should use a background thread.
+2015-03-29 22:54:59.145 CrazyBubbles[2154:5767903] viewServiceDidTerminateWithError: Error Domain=_UIViewServiceInterfaceErrorDomain Code=3 "The operation couldn’t be completed. (_UIViewServiceInterfaceErrorDomain error 3.)" UserInfo=0x7c3ea410 {Message=Service Connection Interrupted}
+2015-03-29 22:54:59.147 CrazyBubbles[2154:5768197] bool _WebTryThreadLock(bool), 0x7bf2b010: Tried to obtain the web lock from a thread other than the main thread or the web thread. This may be a result of calling to UIKit from a secondary thread. Crashing now...
+1   0x5849881 WebThreadLock
+2   0x8b439d -[UIWebView stringByEvaluatingJavaScriptFromString:]
+3   0x4b518 -[CDVViewController shouldAutorotateToInterfaceOrientation:]
+4   0x2ff0b -[MainViewController shouldAutorotateToInterfaceOrientation:]
+5   0x4b648 -[CDVViewController supportedInterfaceOrientations]
+6   0x75dab6 -[UIViewController __supportedInterfaceOrientations]
+7   0x751546 -[UIViewController _preferredInterfaceOrientationGivenStatusBarAndDeviceAndOrientation:]
+8   0x751795 -[UIViewController _preferredInterfaceOrientationGivenCurrentOrientation:]
+9   0x75d824 -[UIViewController _preferredInterfaceOrientationForPresentationInWindow:fromInterfaceOrientation:]
+10  0xdbc56a -[_UIFullscreenPresentationController _adjustOrientationIfNecessaryInWindow:forViewController:preservingViewController:]
+11  0x71d947 -[UIPresentationController _dismissWithAnimationController:interactionController:target:didEndSelector:]
+12  0x758c35 -[UIViewController _dismissViewControllerWithAnimationController:interactionController:completion:]
+13  0x75880e -[UIViewController _dismissViewControllerWithTransition:from:completion:]
+14  0x757e23 -[UIViewController dismissViewControllerWithTransition:completion:]
+15  0x75a447 -[UIViewController dismissViewControllerAnimated:completion:]
+16  0xda9c19 -[UIActivityViewController _cleanupActivityWithSuccess:items:error:]
+17  0xdaba11 __45-[UIActivityViewController _performActivity:]_block_invoke
+18  0xd9c801 -[UIActivity(UIActivity_Private) activityDidFinish:items:error:]
+19  0xd9be31 -[UIActivity activityDidFinish:]
+20  0xdb62e5 -[UIMailActivity mailComposeController:didFinishWithResult:error:]
+21  0x20dacd0 -[MFMailComposeInternalViewController _notifyCompositionDidFinish]
+22  0x20daa58 -[MFMailComposeInternalViewController compositionFinishedWithResult:error:]
+23  0x20da8a5 -[MFMailComposeInternalViewController _finishServiceViewControllerRequestWithSuccess:]
+24  0x20da6e3 __68-[MFMailComposeInternalViewController _configureRemoteViewContoller]_block_invoke
+25  0x23e3c7a __NSXPCCONNECTION_IS_CALLING_OUT_TO_ERROR_BLOCK__
+26  0x23e5041 __97-[NSXPCConnection _sendInvocation:proxyNumber:remoteInterface:withErrorHandler:timeout:userInfo:]_block_invoke304
+27  0x2fc5ae3 _xpc_connection_reply_callout
+28  0x2fbc9d5 _xpc_connection_call_reply
+29  0x2cebecf _dispatch_client_callout
+30  0x2cd402e _dispatch_queue_drain
+31  0x2cd3d33 _dispatch_queue_invoke
+2015-04-04 21:18:46.327 CrazyBubbles[62589:1722948] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Data/Application/DD48DD55-B2C7-46D2-84EB-026799111078/Library/Cookies/Cookies.binarycookies
+2015-04-04 21:18:46.573 CrazyBubbles[62589:1722948] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-04 21:18:46.574 CrazyBubbles[62589:1722948] Multi-tasking -> Device: YES, App: YES
+2015-04-04 21:18:46.590 CrazyBubbles[62589:1722948] Unlimited access to network resources
+2015-04-04 21:18:46.601 CrazyBubbles[62589:1722948] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-04 21:18:47.006 CrazyBubbles[62589:1722948] [CDVTimer][statusbar] 95.394015ms
+2015-04-04 21:18:47.059 CrazyBubbles[62589:1722948] [CDVTimer][socialsharing] 52.756011ms
+2015-04-04 21:18:47.059 CrazyBubbles[62589:1722948] [CDVTimer][TotalPluginStartup] 148.445964ms
+2015-04-04 21:18:47.119 CrazyBubbles[62589:1722948] Resetting plugins due to page load.
+2015-04-04 21:18:47.349 CrazyBubbles[62589:1722948] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Bundle/Application/463BD2BF-9626-48C3-A32F-634133637F21/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-04-04 21:19:14.982 CrazyBubbles[62687:1723653] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Data/Application/F6C858F0-A785-4B2A-B57D-587C35000B0D/Library/Cookies/Cookies.binarycookies
+2015-04-04 21:19:15.074 CrazyBubbles[62687:1723653] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-04 21:19:15.074 CrazyBubbles[62687:1723653] Multi-tasking -> Device: YES, App: YES
+2015-04-04 21:19:15.076 CrazyBubbles[62687:1723653] Unlimited access to network resources
+2015-04-04 21:19:15.079 CrazyBubbles[62687:1723653] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-04 21:19:15.155 CrazyBubbles[62687:1723653] [CDVTimer][statusbar] 11.749029ms
+2015-04-04 21:19:15.188 CrazyBubbles[62687:1723653] [CDVTimer][socialsharing] 32.985985ms
+2015-04-04 21:19:15.188 CrazyBubbles[62687:1723653] [CDVTimer][TotalPluginStartup] 45.019984ms
+2015-04-04 21:19:15.247 CrazyBubbles[62687:1723653] Resetting plugins due to page load.
+2015-04-04 21:19:15.370 CrazyBubbles[62687:1723653] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/7349667E-B5B4-4DB7-8083-28F9530FBC01/data/Containers/Bundle/Application/00DFAFFD-396E-4B31-AAB7-6F20A8440B3C/CrazyBubbles.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-04-04 21:19:20.147 CrazyBubbles[62687:1723653] THREAD WARNING: ['Instagram'] took '12.209717' ms. Plugin should use a background thread.
+2015-04-04 21:19:35.164 CrazyBubbles[62687:1723653] CDVWebViewDelegate: Navigation started when state=1
+2015-04-04 21:19:35.164 CrazyBubbles[62687:1723653] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-04-04 21:19:52.070 CrazyBubbles[62687:1723653] CDVWebViewDelegate: Navigation started when state=1
+2015-04-04 21:19:52.070 CrazyBubbles[62687:1723653] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-04-04 21:19:52.092 CrazyBubbles[62687:1723653] THREAD WARNING: ['Instagram'] took '14.336670' ms. Plugin should use a background thread.

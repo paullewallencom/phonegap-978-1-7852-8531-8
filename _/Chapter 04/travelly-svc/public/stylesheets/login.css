@@ -1,0 +1,9 @@
+body{
+    background: url(../images/parallax/back.png);
+	background-color: #444;
+    background: url(../images/parallax/pinlayer2.png),url(../images/parallax/pinlayer1.png),url(../images/parallax/back.png);    
+}
+
+.vertical-offset-100{
+    padding-top:100px;
+}

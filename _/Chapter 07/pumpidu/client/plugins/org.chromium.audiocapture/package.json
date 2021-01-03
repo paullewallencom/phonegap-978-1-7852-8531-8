@@ -1,0 +1,21 @@
+{
+    "version": "1.0.4",
+    "name": "org.chromium.audiocapture",
+    "cordova_name": "Chrome AudioCapture API",
+    "repo": "https://github.com/MobileChromeApps/mobile-chrome-apps.git",
+    "issue": "https://github.com/MobileChromeApps/mobile-chrome-apps/issues",
+    "keywords": [
+        "chrome",
+        "audio",
+        "capture"
+    ],
+    "platforms": [
+        "android"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ]
+}

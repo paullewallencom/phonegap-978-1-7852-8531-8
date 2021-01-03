@@ -1,0 +1,28 @@
+{
+    "cordova-plugin-crosswalk-webview": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/MobileChromeApps/cordova-plugin-crosswalk-webview.git",
+            "subdir": ".",
+            "ref": "1.0.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.chromium.audiocapture": {
+        "source": {
+            "type": "registry",
+            "id": "org.chromium.audiocapture"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

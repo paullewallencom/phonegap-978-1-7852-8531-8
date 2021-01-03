@@ -1,0 +1,11 @@
+{
+    "selenium": "http://localhost:4723/wd/hub",
+    "browsers": [{
+        "platformName": "iOS",
+        "platformVersion": "8.3",
+        "deviceName": "iPhone 6",
+        "app": "/Users/cybind/Projects/phonegap-by-example/imaginary/cordova/platforms/ios/build/emulator/Imaginary.app",
+        "bundleId": "com.cybind.imaginary",
+        "autoWebview": true
+    }]
+}
